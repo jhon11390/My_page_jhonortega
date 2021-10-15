@@ -39,7 +39,9 @@
       window.onscroll = function() {
         if (document.documentElement.scrollTop <= 100) {
           document.querySelector('.up_GO_sub').classList.add('hide')
+          document.querySelector('.up_GO_sub').classList.remove('show')
         } else{
+          document.querySelector('.up_GO_sub').classList.add('show')
           document.querySelector('.up_GO_sub').classList.remove('hide')
         }
       }

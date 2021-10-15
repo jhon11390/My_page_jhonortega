@@ -20,7 +20,10 @@ function App() {
             z-index: 4;
             text-align: right;
             padding-right: 0px;
-            
+          }
+
+          .up_GO_sub {
+            display: none;
           }
 
           .hide {
