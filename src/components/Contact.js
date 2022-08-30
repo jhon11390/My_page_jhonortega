@@ -47,7 +47,6 @@ function Contact () {
         <Col className="mb-4">
           <h4 style={{textDecoration: "underline"}}>Contacto</h4>
           <p><img src="email .png" alt="email" width="20"/> meljhon2@jhonortega.com</p>
-          <p><img src="telephone .png" alt="telephone" width="20"/> 313-819-74-24</p>
           <p><img src="placeholder.png" alt="placeholder" width="20"/> Bogotá, Colombia</p>
         </Col>
         <Col sm={12} md={6}>
