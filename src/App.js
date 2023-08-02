@@ -38,9 +38,9 @@ function App() {
         `}
       </style>
       <script>
-       
+      
       </script>
-      <Menu />
+      {/* <Menu />
       <Header />
 
       <div className="up_GO">
@@ -55,7 +55,12 @@ function App() {
       <Formation />
       <Projects />
       <Sentence />
-      <Contact />
+      <Contact /> */}
+      <div style={{width: "100%", height: "100vh", display: "flex", justifyContent: "center", alignItems: "center"}}>
+        <div>
+          <img src="pantalla-mantenimiento-modificada.png" alt="mantenimitnyo" />
+        </div>
+      </div>
     </>
    
   );
